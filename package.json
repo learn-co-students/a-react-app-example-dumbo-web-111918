@@ -11,6 +11,7 @@
     ]
   },
   "dependencies": {
+    "learn-browser": "^0.1.17",
     "mocha-multi": "^1.0.1",
     "moment": "^2.22.2",
     "react": "^16.4.1",
@@ -35,5 +36,20 @@
     "enzyme-adapter-react-16": "^1.1.1",
     "mocha": "^5.2.0",
     "sinon": "^6.1.0"
-  }
+  },
+  "description": "## Overview",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jriv95/a-react-app-example-dumbo-web-111918.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jriv95/a-react-app-example-dumbo-web-111918/issues"
+  },
+  "homepage": "https://github.com/jriv95/a-react-app-example-dumbo-web-111918#readme"
 }
